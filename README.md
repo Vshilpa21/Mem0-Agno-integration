@@ -1,4 +1,4 @@
-# Mem0-Agno-integration
+
 # 🧠 Project Cortex: Mem0 + Agno Agent Simulation
 
 This project simulates an LLM-style intelligent agent using Python — inspired by Mem0's memory engine and Agno's reasoning workflow.
